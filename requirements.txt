@@ -1,0 +1,14 @@
+streamlit
+google-generativeai
+requests
+twilio
+sqlalchemy
+python-dotenv
+beautifulsoup4
+mysql-connector-python
+scikit-learn 
+pandas
+openpyxl
+streamlit-folium
+folium
+matplotlib
